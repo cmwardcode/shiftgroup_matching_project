@@ -114,7 +114,7 @@ st.markdown(
 )
 
 # Load strong matches file
-matches_df = pd.read_csv('../data/strong_candidate_job_matches.csv')
+matches_df = pd.read_csv('data/strong_candidate_job_matches.csv')
 
 # Dropdown to select a job
 job_options = matches_df["job_id"].unique()
