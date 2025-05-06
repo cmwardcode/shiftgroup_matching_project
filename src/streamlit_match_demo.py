@@ -2,6 +2,7 @@
 import pandas as pd
 import streamlit as st
 from PIL import Image
+import os
 
 # Custom CSS Styling
 st.markdown(
@@ -98,7 +99,8 @@ st.markdown(
 
 # BRANDING SECTION
 
-logo = Image.open('../assets/shiftgroup_logo.webp')
+logo_path = os.path.join('assets', 'shiftgroup_logo.webp')
+logo = Image.open(logo_path)
 st.image(logo, width=200)
 
 st.markdown(
