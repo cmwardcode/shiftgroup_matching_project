@@ -1,0 +1,38 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Editor backup/temp files
+*.swp
+*.bak
+
+# Secrets or environment configs
+.env
+.env.*
+
+# Streamlit local config (safe to ignore)
+.streamlit/config.toml
+
+# Data temp/backup files only (allow real CSVs to be tracked)
+data/*.tmp
+data/*_backup.csv
+
+# Logs
+*.log

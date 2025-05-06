@@ -1,0 +1,4 @@
+job_id,required_skills,min_years_experience,location,weight_mindset
+J101,"python, sql",2,Remote,0.2
+J102,"salesforce, customer_service",1,"Boston, MA",0.1
+J103,"javascript, react",3,Remote,0.15

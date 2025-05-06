@@ -1,0 +1,8 @@
+candidate_id,job_id,match_score,candidate_skills,job_skills,candidate_location,job_location,candidate_mindset_score,match_score_pct
+C001,J101,1.01,"python, sql, excel","python, sql",Remote,Remote,80,101.0%
+C005,J103,0.982,"react, node, javascript","javascript, react",Remote,Remote,88,98.2%
+C002,J103,0.978,"javascript, react, python","javascript, react","New York, NY",Remote,85,97.8%
+C003,J102,0.925,"salesforce, sql, customer_service","salesforce, customer_service","Boston, MA","Boston, MA",75,92.5%
+C002,J101,0.77,"javascript, react, python","python, sql","New York, NY",Remote,85,77.0%
+C003,J101,0.75,"salesforce, sql, customer_service","python, sql","Boston, MA",Remote,75,75.0%
+C004,J101,0.64,"excel, sql","python, sql",Remote,Remote,70,64.0%

@@ -1,0 +1,6 @@
+candidate_id,skills,years_experience,location,mindset_score
+C001,"python, sql, excel",3,Remote,80
+C002,"javascript, react, python",5,"New York, NY",85
+C003,"salesforce, sql, customer_service",2,"Boston, MA",75
+C004,"excel, sql",1,Remote,70
+C005,"react, node, javascript",4,"Remote",88
